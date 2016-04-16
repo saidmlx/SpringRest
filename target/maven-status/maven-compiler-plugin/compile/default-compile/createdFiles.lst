@@ -1,1 +1,3 @@
-io/saidmlx/controller/Hello.class
+io/saidmlx/persistence/User.class
+io/saidmlx/controller/web/Hello.class
+io/saidmlx/controller/rest/UserController.class
